@@ -1,7 +1,7 @@
 import React from "react";
-
+import Home from "./pages/home";
 function App() {
-  return <h1>Ecoleta</h1>;
+  return <Home />;
 }
 
 export default App;
