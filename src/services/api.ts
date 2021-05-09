@@ -1,6 +1,6 @@
 import { City } from "../entitities/city";
 
-const baseUrl = "http://localhost:3333";
+const baseUrl = "https://gentle-taiga-19543.herokuapp.com";
 
 const api = {
   get: (url: string) =>
